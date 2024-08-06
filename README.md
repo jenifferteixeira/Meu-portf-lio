@@ -24,7 +24,7 @@
 
 ## 🚀 Resultado
 
-Criação de uma página de portfólio, utilizando apenas HTML e CSS, com inclusão de imagens, links e slider infinito.
+Desenvolvi uma página de portfólio utilizando exclusivamente HTML e CSS. A página inclui imagens, links e um slider infinito. Implementando um efeito interativo, ao passar o mouse sobre uma imagem, ela é destacada em cores enquanto as outras são exibidas em preto e branco. Além disso, ao clicar na imagem destacada, o usuário é redirecionado para o site do projeto correspondente. Essa abordagem não só melhora a experiência do usuário, mas também demonstra habilidades avançadas em design e interatividade com HTML e CSS.
 <p>
     <img width="500" src="https://github.com/jenifferteixeira/Meu-portfolio/blob/main/assets/tela.JPG">
 </p>
